@@ -27,4 +27,8 @@ public class E implements A, B {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
 }

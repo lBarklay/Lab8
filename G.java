@@ -19,4 +19,8 @@ public class G implements A {
     public String kk() {
         return "Yes";
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
