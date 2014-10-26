@@ -23,4 +23,8 @@ public class G implements A {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public int cc() {
+        return 42;
+    }
 }

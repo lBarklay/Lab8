@@ -31,4 +31,8 @@ public class E implements A, B {
     public String nn() {
         return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
     }
+
+    public void ab() {
+        return;
+    }
 }
