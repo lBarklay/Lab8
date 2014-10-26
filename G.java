@@ -27,4 +27,8 @@ public class G implements A {
     public int cc() {
         return 42;
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
